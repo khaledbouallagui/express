@@ -1,24 +1,24 @@
-const students=[
+const student=[
     {
     id:1,
-    name:"bilel"
+    name:"bilel",
     age:18,
     },
     {
         id:2,
-        name:"imenl"
+        name:"imenl",
         age:9,
         },
         {
             id:3,
-            name:"zahra"
+            name:"zahra",
             age:20,
             },
             {
                 id:4,
-                name:"leilal"
+                name:"leilal",
                 age:25,
                 },
     ];
 
-    module.exprts=students;
+    module.exprts=student;
